@@ -1,10 +1,10 @@
 export const aboutMeData = [
-	{
-		id: 1,
-		bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
-	},
-	{
-		id: 2,
-		bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
-	},
+  {
+    id: 1,
+    bio:"Hi, I’m Piyush Singh, a passionate and motivated tech enthusiast. I hold a B.Tech degree in Information Technology from Dr. Ram Manohar Lohia Avadh University. My academic background has laid a strong foundation in software development, and I have further built on it by honing my skills in the MERN stack—MongoDB, Express.js, React.js, and Node.js.",
+  },
+  {
+    id: 2,
+    bio:"I specialize in building dynamic, responsive web applications with a clean and intuitive user experience. From developing robust backend APIs to crafting elegant front-end interfaces, I enjoy bringing full-stack solutions to life. My experience includes working with various technologies and frameworks, allowing me to adapt to different project requirements and deliver high-quality results.",
+  },
 ];
