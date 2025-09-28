@@ -3,9 +3,6 @@
 A simple portfolio starter theme built with React and Tailwind CSS.
 
 
-## Demo URl
-
-
 ## Features
 
 -   [React v18](https://reactjs.org) with [React Router v6](https://reactrouter.com)
