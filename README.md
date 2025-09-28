@@ -82,5 +82,5 @@ yarn test
 -   Feel free to use it as your own portfolio
 -   Contributions are welcome
 
-### License
+
 
